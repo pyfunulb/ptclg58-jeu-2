@@ -1,0 +1,17 @@
+(6, 9), 'Dédale'
+(4, 5), 'Reims'
+(12, 22), 'Pasiphaé est la femme du roi Minos'
+(9, 11), 'Lang, Mitterand'
+(1, 30), 'Ariane a aidé Thésée'
+(15, 14), "J'espère que tu as appris quelque chose"
+(15, 17), "Merci à l'équipe pédagogique"
+(16, 13), "C'est la fin du jeu"
+(16, 18), "Merci d'avoir joué"
+(19, 13), "... n'oublie pas l'ascenseur"
+(19, 18), "Pour rentrer, ..."
+(24, 22), 'Poséidon a offert un taureau blanc au roi Minos'
+(27, 10), "Les amours de Pasiphaé et d'un taureau blanc"
+(29, 4), '1779'
+(29, 26), '1286'
+(29, 28), '1985'
+(13, 21), 'Palais Royal'
